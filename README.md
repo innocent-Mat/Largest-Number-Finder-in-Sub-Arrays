@@ -21,7 +21,7 @@ This project is useful for learning array manipulation, nested loops, and basic 
 
 1. Clone the repository:
 
-   git clone https://github.com/innocent-Mat/largest-number-finder.git
+   git clone https://github.com/innocent-Mat/Largest-Number-Finder-in-Sub-Arrays.git
 
 2. Navigate to the project folder:
 
