@@ -21,7 +21,7 @@ This project is useful for learning array manipulation, nested loops, and basic 
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/largest-number-finder.git
+   git clone https://github.com/innocent-Mat/largest-number-finder.git
 
 2. Navigate to the project folder:
 
@@ -34,8 +34,5 @@ This project is useful for learning array manipulation, nested loops, and basic 
 
  ## Author
 Created as a JavaScript practice project by:
-
-innocent-Mat/Largest-Number-Finder-in-Sub-Arrays
-
 ### Short GitHub Description
 **A JavaScript program that finds and returns the largest number from each sub-array in a multidimensional array.**
